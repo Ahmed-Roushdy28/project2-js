@@ -1,0 +1,21 @@
+body{
+ margin: 0;  
+}
+h1{
+   font-size: 80px;
+   font-family: Impact, sans-serif;
+   color: black;
+}
+.heading-div{
+   text-align: center;
+}
+p{
+   font-size: 35px;
+}
+button{
+   color: white;
+   background-color: blue;
+   border: 2px solid black;
+   width: 250px;
+   height: 80px;
+}
